@@ -1,2 +1,2 @@
 # DomExcercise
-### Create page with only javascript code applying on Document Object Model.
+#### Create page with only javascript code applying on Document Object Model(DOM).
